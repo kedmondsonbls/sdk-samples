@@ -1,0 +1,28 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2025-07-08T14:36:03.837915",
+        "files": {
+            "csclient.py": "d854270f11d142bdc645517f5d76fced9ed670a8c2bbab038bc9692f7ee50baa",
+            "package.ini": "0400392e7610096181add0dbd6f419a5938887414f8331663809a52c1ef03a8e",
+            "s400_gpio_tester.py": "ff1ba12a3cb713742978d01b8c60d2055328569325997b1b1b021706512ba1a4",
+            "start.sh": "b63b5ae6eba54c928835544af95f857b94d8cd0104817f7c8cb79dcdd1c5cacb"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 25,
+        "name": "s400_gpio_tester",
+        "notes": "gpio tester for S400",
+        "reboot": true,
+        "restart": true,
+        "uuid": "bd3c3096-e1e6-4255-bde3-4e15da1d2c88",
+        "vendor": "Cradlepoint",
+        "version_major": 0,
+        "version_minor": 2,
+        "version_patch": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0,
+        "version_patch": 0
+    }
+}

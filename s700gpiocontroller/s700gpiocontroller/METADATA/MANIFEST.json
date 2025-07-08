@@ -1,0 +1,28 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2025-07-06T19:17:15.578336",
+        "files": {
+            "cp.py": "f41290e0a357ae8f609ece34bb38fdb37d4a50f837851814a274fac409218416",
+            "package.ini": "dae1706d108a6a7c161ff96456f803f357249cc67670e64ea2da418886d64df9",
+            "s700gpiocontroller.py": "b0479979757a6dae8500758cec4191b4eec519add8be7ec962dd7a7288b804a1",
+            "start.sh": "fc9eb3503d4fcb58efe924682fbfa9c957f09fd57104fbcf6079560c6cdd9b0a"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 25,
+        "name": "s700gpiocontroller",
+        "notes": "SDK Application",
+        "reboot": true,
+        "restart": true,
+        "uuid": "29eb8455-d4f5-4af6-ac92-39c224384e04",
+        "vendor": "BlueLineSolutions",
+        "version_major": 1,
+        "version_minor": 1,
+        "version_patch": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0,
+        "version_patch": 0
+    }
+}

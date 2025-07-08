@@ -1,0 +1,28 @@
+{
+    "app": {
+        "auto_start": false,
+        "date": "2025-07-06T19:26:23.009495",
+        "files": {
+            "cp.py": "f41290e0a357ae8f609ece34bb38fdb37d4a50f837851814a274fac409218416",
+            "gpio2secondcycletest.py": "064b728cba7358d3625b282321ea091dac949e44e85b6ae7a6ed3c8bf425302b",
+            "package.ini": "e3fb3a979898775e2e25be8f47911b1a5753f3d25090a17b4ecf30ef6b9fcfba",
+            "start.sh": "8b08630d9fca99c4ea77691117da1843c2bfe537320da9367867f6402e788c59"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 25,
+        "name": "gpio2secondcycletest",
+        "notes": "SDK Application",
+        "reboot": false,
+        "restart": false,
+        "uuid": "42891811-e656-4f7d-a3f0-3912919c9367",
+        "vendor": "BlueLineSolutions",
+        "version_major": 1,
+        "version_minor": 0,
+        "version_patch": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0,
+        "version_patch": 0
+    }
+}

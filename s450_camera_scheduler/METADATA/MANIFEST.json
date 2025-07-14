@@ -1,0 +1,28 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2025-07-14T10:05:14.759926",
+        "files": {
+            "csclient.py": "d854270f11d142bdc645517f5d76fced9ed670a8c2bbab038bc9692f7ee50baa",
+            "package.ini": "facf0b4e3bf10dbbfba1ab0145990533be8fb637c240b5aa6bd12935a33096b3",
+            "s450_camera_scheduler.py": "86aa399f855a9232f91feab7deea002a57f80161d319849cc821255df9dfc7c1",
+            "start.sh": "5b26d5487647cf3e43aacd010db13105858aba5a5574950ea9e4aa1a26ec96e0"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 25,
+        "name": "s450_camera_scheduler",
+        "notes": "s450_camera_scheduler",
+        "reboot": true,
+        "restart": true,
+        "uuid": "bd3c3096-e1e6-4255-bde3-4e15da1d2c88",
+        "vendor": "BlueLine",
+        "version_major": 1,
+        "version_minor": 1,
+        "version_patch": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0,
+        "version_patch": 0
+    }
+}

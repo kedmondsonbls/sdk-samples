@@ -1,0 +1,30 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2025-07-14T10:01:57.655651",
+        "files": {
+            "csclient.py": "d854270f11d142bdc645517f5d76fced9ed670a8c2bbab038bc9692f7ee50baa",
+            "package.ini": "b18b8ad2fb64e6f18e8c415476c295f2c6962f4af5b64e663cd9bb5c86315c75",
+            "s400_status_monitor.py": "1e287b0dbdeb16a2185ba10b9a65e745012479833af5a2960aff44300602d5da",
+            "s450_status_monitor": "2aff80614fa53ecaab57e64f8a613009cedc9bcd477ea83bea179f8498002037",
+            "s450_status_monitor.py": "431c03eaf4704b57543da85a9857185c6ca1ae420fcedfb59679781a12f90964",
+            "start.sh": "5f11e6d20cf9531efe6e48d395bf94097be738aa7fc1e6321d8955603f2e22a8"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 25,
+        "name": "s450_status_monitor",
+        "notes": "s450_status_monitor",
+        "reboot": true,
+        "restart": true,
+        "uuid": "0882e887-0e1c-4371-be24-0fcd9e2b63ee",
+        "vendor": "BlueLine",
+        "version_major": 1,
+        "version_minor": 1,
+        "version_patch": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0,
+        "version_patch": 0
+    }
+}

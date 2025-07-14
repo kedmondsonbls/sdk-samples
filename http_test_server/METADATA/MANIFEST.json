@@ -1,0 +1,28 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2025-07-14T09:44:52.380559",
+        "files": {
+            "csclient.py": "d854270f11d142bdc645517f5d76fced9ed670a8c2bbab038bc9692f7ee50baa",
+            "http_test_server.py": "0ca385bd5a45eca3ba4f31e52269589e48535870771e6f38ec4b7f90c3934637",
+            "package.ini": "2544c97da1cecb899279521ff621ee92d5700f830d7c5146d2b77ea4abef5bba",
+            "start.sh": "5d504eee7aaae8377f6bae42b3ee0d39eca363a8acdaa7ce9d43ba888ed8507c"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 25,
+        "name": "http_test_server",
+        "notes": "http_test_server",
+        "reboot": true,
+        "restart": true,
+        "uuid": "6c0c51d8-ee10-4776-954f-c0cc0fa1021e",
+        "vendor": "BlueLine",
+        "version_major": 0,
+        "version_minor": 1,
+        "version_patch": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0,
+        "version_patch": 0
+    }
+}

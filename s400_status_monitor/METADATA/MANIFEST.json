@@ -1,0 +1,29 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2025-07-14T16:03:16.851123",
+        "files": {
+            "README_s450_status_monitor.md": "cab2f9d52511521b8dada49270c2ebe99b844c67a9389ac99e1e9b519c8b10bc",
+            "csclient.py": "d854270f11d142bdc645517f5d76fced9ed670a8c2bbab038bc9692f7ee50baa",
+            "package.ini": "45f1af0b36ea1d89eb9f4a87f347076e49a9ae8a6f8e5f1736aa11a41888340d",
+            "s450_status_monitor.py": "1bdda8c64532a5848f3a05bc2a26d9812a5bd4471b5f6676a27e2e4f4e8f2ec6",
+            "start.sh": "5f11e6d20cf9531efe6e48d395bf94097be738aa7fc1e6321d8955603f2e22a8"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 25,
+        "name": "s400_status_monitor",
+        "notes": "s400_status_monitor",
+        "reboot": true,
+        "restart": true,
+        "uuid": "0882e887-0e1c-4371-be24-0fcd9e2b63ee",
+        "vendor": "BlueLine",
+        "version_major": 1,
+        "version_minor": 2,
+        "version_patch": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0,
+        "version_patch": 0
+    }
+}

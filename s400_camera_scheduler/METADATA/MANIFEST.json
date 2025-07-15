@@ -1,0 +1,29 @@
+{
+    "app": {
+        "auto_start": true,
+        "date": "2025-07-15T12:01:59.140581",
+        "files": {
+            "README_s400_camera_scheduler.md": "fd40a4b84a2133eedc36947228cb9c77bff543328385b3d312e427fcdf61b569",
+            "csclient.py": "d854270f11d142bdc645517f5d76fced9ed670a8c2bbab038bc9692f7ee50baa",
+            "package.ini": "f4781f7e7c3ab4bb1f8f1529545cb393e1c22817a6d2e3af770832608210e309",
+            "s400_camera_scheduler.py": "b6354daf43f9194f0a491a9118ef31f10b847e4a2612c0278f43a69cf37372ce",
+            "start.sh": "5b26d5487647cf3e43aacd010db13105858aba5a5574950ea9e4aa1a26ec96e0"
+        },
+        "firmware_major": 7,
+        "firmware_minor": 25,
+        "name": "s400_camera_scheduler",
+        "notes": "s400_camera_scheduler",
+        "reboot": true,
+        "restart": true,
+        "uuid": "9abf46df-4231-48e3-8947-d03560b46bba",
+        "vendor": "BlueLine",
+        "version_major": 1,
+        "version_minor": 3,
+        "version_patch": 0
+    },
+    "pmf": {
+        "version_major": 1,
+        "version_minor": 0,
+        "version_patch": 0
+    }
+}
